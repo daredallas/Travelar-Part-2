@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 div.centered_content {
   
   display: block;
@@ -26,7 +26,6 @@ div.p {
 #signature {
   font-family: "Open Sans";
   color: white;
- 
   margin-bottom: 40px;
   font-style: italic;
   
@@ -62,7 +61,7 @@ h3 {
 }
 
 p {
-  font-family: "Open Sans Light";
+  font-family: "Open Sans";
   color: white;
   font-size: 100%;
   padding-right: auto;
